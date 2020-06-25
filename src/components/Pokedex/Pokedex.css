@@ -1,0 +1,44 @@
+table {
+    width: 1000px;
+    border-spacing: 10px;
+    border-collapse: collapse;
+}
+
+tr {
+    text-align: center;
+}
+
+td {
+    text-align: center;
+}
+
+table, tr {
+    border: 1px solid #000000;
+}
+
+th, td {
+    padding: 10px;
+}
+
+th {
+    background-color: red;
+}
+
+tr:nth-child(even){
+    background-color: white;
+}
+
+tr:nth-child(odd){
+    background-color: #dddddd;
+}
+
+.imgType {
+    width: auto;
+    height: 20px;
+    padding: 5px;
+}
+
+/* img {
+    width: 20px;
+    height: 10px;
+} */

@@ -1,0 +1,32 @@
+:root {
+    font-size: 16px;
+    --white-color: #f9f9f9;
+    --blue-color: #678d9b;
+    --gray-color: #5b5b5b;
+}
+
+.imgBG {
+    width: 100vw;
+    height: 100vh;
+    background-image: url("../assets/background/logo\ mosaic.png");
+    background-color: var(--white-color);
+    background-repeat: no-repeat;
+    background-position: center, right;
+    background-size: cover;
+}
+
+.app {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.pokedex {
+    flex: 2;
+}
+
+
+
+
+

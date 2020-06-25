@@ -1,0 +1,52 @@
+{
+    "pokemon": [
+        {
+            "number": "001",
+            "name": "Bulbasaur",
+            "type1": "grass",
+            "type2": "poison",
+            "ability1": "Overgrow",
+            "ability2": "*",
+            "hAbility": "Chlorophyll",
+            "hp": "45",
+            "atk": "49",
+            "def": "49",
+            "spatk": "65",
+            "spdef": "65",
+            "spd": "45",
+            "total": "318"
+        },
+        {
+            "number": "004",
+            "name": "Charmander",
+            "type1": "fire",
+            "type2": "*",
+            "ability1": "Blaze",
+            "ability2": "*",
+            "hAbility": "*",
+            "hp": "39",
+            "atk": "52",
+            "def": "43",
+            "spatk": "60",
+            "spdef": "50",
+            "spd": "65",
+            "total": "309"
+        },
+        {
+            "number": "007",
+            "name": "Squirtle",
+            "type1": "water",
+            "type2": "*",
+            "ability1": "Torrent",
+            "ability2": "*",
+            "hAbility": "Rain Dish",
+            "hp": "44",
+            "atk": "48",
+            "def": "65",
+            "spatk": "50",
+            "spdef": "64",
+            "spd": "43",
+            "total": "314"
+        }
+    ]
+}
